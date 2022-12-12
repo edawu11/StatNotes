@@ -7,10 +7,10 @@ Welcome to StatNotes's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 非参数统计
 
-  raw/非参数统计/序言.md
+   raw/非参数统计/序言.md
 
 
 
