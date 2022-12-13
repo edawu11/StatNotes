@@ -7,9 +7,9 @@ Welcome to StatNotes's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: 课程笔记与心得
-
-   raw/课程笔记与心得/非参数统计.md
+	
+   [非参数统计](raw/课程笔记与心得/非参数统计.md)
 
 
