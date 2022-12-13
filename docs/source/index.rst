@@ -8,15 +8,8 @@ Welcome to StatNotes's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: 非参数统计
+   :caption: 课程笔记与心得
 
-   raw/非参数统计/序言.md
+   raw/课程笔记与心得/非参数统计.md
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
